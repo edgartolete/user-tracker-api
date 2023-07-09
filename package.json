@@ -1,0 +1,15 @@
+{
+  "name": "user-tracker-api",
+  "version": "1.0.0",
+  "description": "get user details like IP Address, browser, browser version, OS, and OS version.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "User Tracker",
+    "Get user IP Address"
+  ],
+  "author": "Edgar Tolete",
+  "license": "ISC"
+}
